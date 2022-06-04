@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Ibrahim Kamal</h1>
+<h1 align="center">Hi, I'm Ibrahim Kamal</h1>
 <h3 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a></h3>
 
 - 🔭 I’m a **Frontend Developer**
