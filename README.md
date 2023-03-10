@@ -5,7 +5,7 @@
 
 - 🔭 I’m a **Frontend Developer**
 
-- 🔭 i have **2 years** of work experience using **JavaScript, TypeScript, React & Vue**
+- 🔭 i have **3 years** of work experience using **JavaScript, TypeScript, React & Vue**
 
 - 🌱 I’m currently learning **How to build my own UI Framework**
 
